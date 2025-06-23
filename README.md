@@ -1,5 +1,8 @@
 # LSTM-based Air Pollution Prediction 🌬️📊
 
+![Uploading Gemini_Generated_Image_ldx8kvldx8kvldx8.png…]()
+
+
 ## Project Overview 📈
 
 This repository contains a deep learning project focused on predicting air pollution levels using Long Short-Term Memory (LSTM) neural networks. The project leverages a time-series dataset of air pollution and weather conditions to forecast future pollution concentrations, specifically PM2.5. 💨
