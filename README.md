@@ -1,7 +1,6 @@
 # LSTM-based Air Pollution Prediction 🌬️📊
 
-![Uploading Gemini_Generated_Image_ldx8kvldx8kvldx8.png…]()
-
+![Gemini_Generated_Image_ldx8kvldx8kvldx8](https://github.com/user-attachments/assets/9fcc3df5-ad11-4702-ab85-a094cd111b27)
 
 ## Project Overview 📈
 
